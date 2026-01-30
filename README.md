@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Code With Me
 
 Este projeto é um protótipo desenvolvido no Figma com foco em aprendizado e gamificação.
 
